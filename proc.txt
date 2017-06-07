@@ -1,0 +1,7 @@
+PID	Burst	Priority
+p1	4	24
+p2	7	12
+p3	2	45
+p4	8	30
+p5	1	40
+p6	3	44
